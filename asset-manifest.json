@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anurag-sample-app/static/css/main.d2db5079.css",
+    "main.js": "/anurag-sample-app/static/js/main.b9983e5b.js",
+    "static/js/787.8f9effd1.chunk.js": "/anurag-sample-app/static/js/787.8f9effd1.chunk.js",
+    "index.html": "/anurag-sample-app/index.html",
+    "main.d2db5079.css.map": "/anurag-sample-app/static/css/main.d2db5079.css.map",
+    "main.b9983e5b.js.map": "/anurag-sample-app/static/js/main.b9983e5b.js.map",
+    "787.8f9effd1.chunk.js.map": "/anurag-sample-app/static/js/787.8f9effd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2db5079.css",
+    "static/js/main.b9983e5b.js"
+  ]
+}
